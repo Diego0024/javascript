@@ -1,52 +1,32 @@
+var edadDiego= 24; //Tipo de dato numerico
+console.log(edadDiego);
+var numTelefonico = "5543463345";
+console.log(numTelefonico);
+var nombreDany = "Diego" //Tipo de dato string
+console.log(nombreDany);
+var apellidoDany = "Villanueva" //Tipo de dato string
+console.log(apellidoDany);
+var estudianteDany = true //Tipo de dato booleano
+console.log(estudianteDany)
+console.log("Hola soy " + nombreDany + apellidoDany);
+
+let edadPersona = 25; //Tipo de dato numerico
+console.log(edadPersona)
+let numeroTelefonico = "6271829303";
+console.log(numeroTelefonico)
+let nombrePersona = "Juan" //Tipo de dato string
+console.log(nombrePersona)
+let apellidoPersona = "Perez" //Tipo de dato string
+console.log(apellidoPersona)
+let estudiante = false //Tipo de dato booleano
+console.log(estudiante)
+
+console.log("My name is" + nombrePersona + apellidoPersona)
+
 var edadDiego = '24';
 console.log("La edad de Diego es " 
 + edadDiego);
 
-let diegoDateOfBirth = 1999;
-console.log("Diego was born in " 
-+ diegoDateOfBirth);
+console.log("La edad de Juan es " 
++ edadPersona);
 
-let suma = edadDiego + diegoDateOfBirth;
-console.log("La suma de la edad de Diego y el año de nacimiento es " + suma)
-
-let postreFavorito = 'Helado';
-
-var movieFav = "Toy story";
-
-// Variables de tipo string, comillas dobles o simples
-
-let miNombreEsDiego = false;
-
-var amIAlive = true;
-
-// Variables de tipo nulo (null)
-let datoVacio = null;
-let datoVacio1 = "";
-
-//Variables de tipo array
-
-let coleccionDeCoches = ["Porsche", "Mercedes-Benz", "Ferrari", "Nissan"]
-
-let frutas = ["Manzana", "Platano", "Mango"];
-
-let chuches = ["chips moradas", "takis verdes", "huevito kinder", "churritos con salsa"];
-// var
-var nombre = "Marcus";
-console.log(nombre)
-
-if (true){
-    var nombre = "Dominic";
-    console.log(nombre);
-}
- // let
-console.log(nombre);
-
-var edad = 45;
-console.log(edad);
-
-if (true){
-    let edad = 40;
-    console.log(edad)
-}
-
-console.log(edad);
